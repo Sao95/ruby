@@ -1,2 +1,2 @@
 name = "Sao"
-puts name
+puts namegit 
